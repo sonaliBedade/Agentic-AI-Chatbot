@@ -1,6 +1,7 @@
 # 🤖 Agentic AI Chatbot
 
 Welcome to Agentic AI Chatbot! It's lightweight chatbot framework built with LangGraph and Streamlit, designed to explore the basics of agentic workflows and LLM routing graphs. 
+Check it out here [Chattr](https://chatttr.streamlit.app/#lang-graph-build-stateful-agentic-ai-graph)!
 
 ---
 
